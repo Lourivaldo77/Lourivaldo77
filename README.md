@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/render?type=soft&height=200&section=header&text=Lourivaldo%20Gaspar&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" />
 
   <p align="center">
-    <a href=" Lourivaldo Silva">
+    <a href=" www.linkedin.com/in/lourivaldo-silva-618927297">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:your.email@example.com">
