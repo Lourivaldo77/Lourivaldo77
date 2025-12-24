@@ -63,7 +63,7 @@ Hi there! I'm **Lourivaldo Gaspar**. I am a developer focused on building robust
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lourivaldo77&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lourivaldo77&show_icons=true&theme=tokyonight" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lourivaldo77&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
