@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=Lourivaldo%20Gaspar&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&height=200&section=header&text=Lourivaldo%20Gaspar&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_LINK">
@@ -64,13 +64,13 @@ Hi there! I'm **Lourivaldo Gaspar**. I am a developer focused on building robust
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Lourivaldo77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lourivaldo77&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Lourivaldo77&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lourivaldo77&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lourivaldo77&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Lourivaldo77&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
