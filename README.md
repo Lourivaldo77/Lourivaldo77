@@ -62,7 +62,7 @@ Hi there! I'm **Lourivaldo Gaspar**. I am a developer focused on building robust
 ---
 
 ### 📊 GitHub Stats
----
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Lourivaldo77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   
