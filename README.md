@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/render?type=soft&height=200&section=header&text=Lourivaldo%20Gaspar&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" />
 
   <p align="center">
-    <a href=" www.linkedin.com/in/lourivaldo-silva-618927297">
+    <a href="https://www.linkedin.com/in/lourivaldo-silva-618927297">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:lourivaldogaspar1@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=Lourivaldo77&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Views" />
