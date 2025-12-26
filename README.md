@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&height=200&section=header&text=Lourivaldo%20Gaspar&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&height=220&section=header&text=Lourivaldo%20Gaspar&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/lourivaldo-silva-618927297">
