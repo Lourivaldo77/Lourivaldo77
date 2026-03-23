@@ -29,7 +29,7 @@ Hi there! I'm **Lourivaldo Gaspar**. I am a developer focused on building robust
     <tr>
       <td align="left" width="50%">
         <strong>🎨 Front-end</strong><br>
-        <img src="https://skillicons.dev/icons?i=css,tailwind,react,nextjs" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
       </td>
       <td align="left" width="50%">
         <strong>⚙️ Back-end</strong><br>
